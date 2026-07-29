@@ -1,4 +1,9 @@
 # ESP32 Bidirectional IoT Monitoring and Control using MQTT and Node-RED
+# ESP32 Bidirectional IoT Monitoring and Control
+
+![Arduino](https://img.shields.io/badge/Arduino-ESP32-blue)
+![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-green)
+![Node--RED](https://img.shields.io/badge/Node--RED-Dashboard-red)
 
 A complete bidirectional IoT monitoring and control system developed using an ESP32, MQTT, and Node-RED Dashboard.
 
